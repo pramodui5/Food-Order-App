@@ -1,0 +1,22 @@
+.header{
+    background-color: #003f88;
+    color: #fff;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    padding: 0 10%;
+    justify-content: space-between;
+}
+.logo {
+    align-self: center;
+    border-bottom: 7px solid #fff;
+    color: #fff;
+    font-size: 2rem;    
+    line-height: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.main-banner {
+    width: 100%;
+    height: auto;
+}
